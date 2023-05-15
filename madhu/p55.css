@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/a1.jpeg);
+}
+.m1 ul li{
+display: inline-block;
+margin: 0px 180px;
+text-decoration: none;
+}
+.m2 ul li{
+position: absolute;
+right: 70px;
+}

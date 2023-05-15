@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+.main{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 20px;
+    margin-right: 1000px;
+}
+.sub1{
+    border-bottom: 1px solid black;
+    color: blue;
+}
+.sub2{
+    color: rgb(190, 243, 243);
+
+}

@@ -1,0 +1,31 @@
+.main{
+    background-color: blue;
+    width: 100%;
+    height: 700px;
+}
+.sub1{
+    background-color: navy;
+    width: 30%;
+    color: white;
+    text-align: center;
+    float: left;
+
+}
+#a1{
+    background-color: white;
+    color: navy;
+}
+.main2{
+    width: 70%;
+    height: 700px;
+    float: left;
+}
+.sub3{
+    float: left;
+    width: 70%;
+
+}
+.sub4{
+    width: 30%%;
+    float: left;
+}

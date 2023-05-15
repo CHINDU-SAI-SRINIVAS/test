@@ -1,0 +1,22 @@
+body{
+	background-color: lightblue;
+}
+.tab{
+	width: 100%;
+}
+.tab1{
+	width: 80%;
+	float: left;
+}
+.tab2{
+	width: 20%;
+	float: left;
+}
+.tab2 button{
+	padding: 7px 30px;
+	background-color: white;
+	color:rgba(0, 100, 194, 0.606);
+	border: 2px solid white;
+	border-radius: 2px;
+
+}

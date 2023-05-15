@@ -1,0 +1,29 @@
+body{
+	background-color: darkblue;
+}
+.s1{
+	background-color: rgb(0, 30, 76);
+	height: 200px;
+}
+.image{
+	padding: 10px;
+
+}
+.table{
+	margin-right: auto;
+	padding: 5px;
+}
+.main2{
+	background-color: white;
+}
+.sb1{
+	border-bottom: 3PX white;
+	margin-bottom: 140px;
+	font-size: 20px ;
+}
+.sb2{
+	padding: 20px;
+}
+.footer{
+	background-color: brown;
+}

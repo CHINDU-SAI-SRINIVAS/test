@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+}
+#p1{
+    background-color: red;
+    color: white;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+#p2{
+    background-color: green;
+    color: white;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+#p3{
+    background-color: yellow;
+    padding-bottom: 150px;
+    border-radius: 20px;
+}
+#p4{
+    background-color: pink;
+    padding-bottom: 50px;
+    border-radius: 20PX;
+    color: white;
+}
+#p5{
+    background-color: blue;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    color: white   ;
+}
